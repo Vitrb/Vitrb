@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vitor
 
-##🔐 Web Pentester | Offensive Security
+🔐 Web Pentester | Offensive Security
 
 - 🎯 Focus on Web Application Security
 - 🛠 Tools: Burp Suite, Nuclei, ffuf, SQLmap

@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Vitor
 
-<!--
-**Vitrb/Vitrb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 Web Pentester | Offensive Security
 
-Here are some ideas to get you started:
+- 🎯 Focus on Web Application Security
+- 🛠 Tools: Burp Suite, Nuclei, ffuf, SQLmap
+- 🧠 OWASP Top 10 & Business Logic Flaws
+- 📚 Currently improving advanced web exploitation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 Featured Projects:
+- 🔴 web-pentest-writeups
+- 🔴 web-pentest-scripts
+- 🔴 web-pentest-checklist
+

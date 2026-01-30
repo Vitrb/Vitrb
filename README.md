@@ -7,8 +7,7 @@
 - 🧠 OWASP Top 10 & Business Logic Flaws
 - 📚 Currently improving advanced web exploitation
 
-📌 Featured Projects:
-- 🔴 web-pentest-writeups
-- 🔴 web-pentest-scripts
-- 🔴 web-pentest-checklist
+## 🎓 Certifications
 
+- eJPT — Junior Penetration Tester (INE)
+- eWPT — Web Application Penetration Tester (INE) *(In progress)*
